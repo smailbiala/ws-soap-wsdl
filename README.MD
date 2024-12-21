@@ -22,11 +22,11 @@ Ce projet illustre la mise en œuvre et l’exécution d’un **web service SOAP
 
 
 ### 2️⃣ WSDL
-<img src="captures/1.jpg" />
+<img src="https://raw.githubusercontent.com/smailbiala/ws-soap-wsdl/master/captures/1.JPG" />
 ### 3️⃣ Convert Euro to MAD 
-<img src="captures/4.jpg" />
+<img src="https://raw.githubusercontent.com/smailbiala/ws-soap-wsdl/master/captures/4.JPG" />
 ### 4️⃣ Afficher un Compte ayant un code == 55    
-<img src="captures/5.jpg" />
+<img src="https://raw.githubusercontent.com/smailbiala/ws-soap-wsdl/master/captures/5.JPG" />
 ### 5️⃣ Afficher la liste des comptes  
-<img src="captures/6.jpg" />
+<img src="https://raw.githubusercontent.com/smailbiala/ws-soap-wsdl/master/captures/6.JPG" />
 
