@@ -22,11 +22,11 @@ Ce projet illustre la mise en œuvre et l’exécution d’un **web service SOAP
 
 
 ### 2️⃣ WSDL
-<img src="Captures/1.jpg" />
+<img src="captures/1.jpg" />
 ### 3️⃣ Convert Euro to MAD 
-<img src="Captures/4.jpg" />
+<img src="captures/4.jpg" />
 ### 4️⃣ Afficher un Compte ayant un code == 55    
-<img src="Captures/5.jpg" />
+<img src="captures/5.jpg" />
 ### 5️⃣ Afficher la liste des comptes  
-<img src="Captures/6.jpg" />
+<img src="captures/6.jpg" />
 
